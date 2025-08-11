@@ -1,0 +1,24 @@
+# Node modules
+node_modules
+frontend/node_modules
+backend/node_modules
+
+# Build output
+dist
+frontend/dist
+backend/dist
+
+# Environment files (DO NOT COMMIT)
+.env
+.env.*
+backend/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
